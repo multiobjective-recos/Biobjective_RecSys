@@ -8,7 +8,9 @@ Code Organization:
 
 
 Prerequisites:
+
 Before you begin, ensure you have met the following requirements:
+
 	- You have python3 installed
 	- You have installed requirements
 
