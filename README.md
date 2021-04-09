@@ -14,4 +14,5 @@ Before you begin, ensure you have met the following requirements:
 
 
 [1] Benouaret, I., Amer-Yahia, S., Kamdem-Kengne, C., Chagraoui, J.: A bi-objective approach for product recommendations. In: 2019 IEEE International Conference on Big Data (Big Data). pp. 2159–2168. IEEE (2019)
+
 [2] Uno, T., Asai, T., Uchida, Y., Arimura, H.: Lcm: An efficient algorithm for enumerating frequent closed item sets. In: Fimi. vol. 90. Citeseer (2003
