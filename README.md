@@ -3,7 +3,7 @@
 Code Organization:
 
 		- Knapsack_solutions contains the implementation of different algorithms proposed to solve knapsack formulation, like dynamic programming, branch and bound and FPTAS. 
-		- Pareto contains the implementation of the algorithme proposed in our previous work [1]
+		- Pareto contains the implementation of the algorithm proposed in our previous work [1]
 		- [T]Mining is the mining algorithm LCM used [2]
 
 
